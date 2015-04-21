@@ -2498,7 +2498,7 @@
 				SWIFT_OBJC_BRIDGING_HEADER = "demo/app/view/demo-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				TARGETED_DEVICE_FAMILY = 1;
-				VALID_ARCHS = "armv7 i386 arm64";
+				VALID_ARCHS = "armv7 i386 arm64 x86_64";
 			};
 			name = Debug;
 		};
@@ -2530,7 +2530,7 @@
 				PROVISIONING_PROFILE = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "demo/app/view/demo-Bridging-Header.h";
 				TARGETED_DEVICE_FAMILY = 1;
-				VALID_ARCHS = "armv7 i386 arm64";
+				VALID_ARCHS = "armv7 i386 arm64 x86_64";
 			};
 			name = Release;
 		};
